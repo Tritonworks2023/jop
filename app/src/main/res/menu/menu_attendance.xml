@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_present"
+        android:title="Present" />
+    <item
+        android:id="@+id/menu_leave"
+        android:title="Leave" />
+<!--    <item-->
+<!--        android:id="@+id/menu_permission"-->
+<!--        android:title="Permission" />-->
+    <item
+        android:id="@+id/menu_absent"
+        android:title="Absent" />
+
+    <item
+        android:id="@+id/menu_comoff"
+        android:title="Com-Off" />
+    <item
+        android:id="@+id/menu_holiday"
+        android:title="Holiday" />
+    <item
+        android:id="@+id/menu_station"
+        android:title="Out Station" />
+</menu>
